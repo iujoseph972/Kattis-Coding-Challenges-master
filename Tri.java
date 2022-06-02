@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-
+//adding comment for github demo 6/2/2022
 public class Tri {
 	static Scanner in = new Scanner(System.in);
 	
